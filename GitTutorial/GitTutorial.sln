@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GitTutorial", "src\GitTutorial\GitTutorial.xproj", "{70B76D9A-D5FF-4BC8-84F5-5EBBCFF9DA96}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jordan", "Jordan", "{2B955E87-A0C0-4FE6-85B6-B6F9E834064F}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Example_ConsoleApp_Jordan", "Example_ConsoleApp_Jordan\Example_ConsoleApp_Jordan.xproj", "{C8626F66-2DCF-4E7F-BCDE-002AE563E614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,11 +26,16 @@ Global
 		{70B76D9A-D5FF-4BC8-84F5-5EBBCFF9DA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70B76D9A-D5FF-4BC8-84F5-5EBBCFF9DA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70B76D9A-D5FF-4BC8-84F5-5EBBCFF9DA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8626F66-2DCF-4E7F-BCDE-002AE563E614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8626F66-2DCF-4E7F-BCDE-002AE563E614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8626F66-2DCF-4E7F-BCDE-002AE563E614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8626F66-2DCF-4E7F-BCDE-002AE563E614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{70B76D9A-D5FF-4BC8-84F5-5EBBCFF9DA96} = {85E7D344-3159-40CF-8A6C-887158FEC996}
+		{C8626F66-2DCF-4E7F-BCDE-002AE563E614} = {2B955E87-A0C0-4FE6-85B6-B6F9E834064F}
 	EndGlobalSection
 EndGlobal
